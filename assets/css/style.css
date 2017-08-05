@@ -1,0 +1,19 @@
+.container {
+	width: 100%
+}
+
+
+
+.header { 
+	text-align: center;
+	font-family: helvetica, verdana, arial;
+	font-size: 30px;
+}
+
+.main-content {
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: helvetica, verdana, arial;
+	font-size: 20px;
+}
+
